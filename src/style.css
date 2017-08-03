@@ -1,0 +1,7 @@
+.hello {
+  color: red;
+}
+
+:local(.hideme) {
+  font-size: 2em;
+}
